@@ -1,0 +1,12 @@
+package com.sky.ioc;
+
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+    /**
+     * Rigorous Test :-)
+     */
+    public void shouldAnswerWithTrue(){};
+}
